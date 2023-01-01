@@ -16,8 +16,3 @@
   - Is thalassemia a major cause of CVD? How are the other factors determining the occurrence of CVD?
   - Use a pair plot to understand the relationship between all the given variables.
   - Perform Adaboost, predict the outcome for test data, and validate the results by using the confusion matrix.
-
-4. Dashboarding:
-  - Visualize the variables using Tableau to create an understanding for attributes of a Diseased vs. a Healthy person.
-  - Demonstrate  the variables associated with each other and factors to build a dashboard
-https://public.tableau.com/views/Heartdisease_16604090359750/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
