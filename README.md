@@ -15,7 +15,7 @@
   - What can be concluded about the relationship between peak exercising and occurrence of heart attack?
   - Is thalassemia a major cause of CVD? How are the other factors determining the occurrence of CVD?
   - Use a pair plot to understand the relationship between all the given variables.
-  - Perform logistic regression, predict the outcome for test data, and validate the results by using the confusion matrix.
+  - Perform Adaboost, predict the outcome for test data, and validate the results by using the confusion matrix.
 
 4. Dashboarding:
   - Visualize the variables using Tableau to create an understanding for attributes of a Diseased vs. a Healthy person.
